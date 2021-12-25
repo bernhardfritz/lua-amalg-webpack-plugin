@@ -1,0 +1,4 @@
+return {
+  "src/main.lua",
+  [ "hello" ] = "L",
+}
