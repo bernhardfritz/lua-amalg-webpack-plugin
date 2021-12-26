@@ -73,7 +73,7 @@ module.exports = {
 
 # Examples
 
-* [hello-lua](./examples/hello-lua)
+* [hello-lua](examples/hello-lua/README.md)
 
 # License
 
